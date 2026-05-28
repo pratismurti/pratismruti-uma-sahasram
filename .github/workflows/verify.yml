@@ -12,5 +12,5 @@ on:
 
 jobs:
   verify:
-    uses: pratismruti/pratismruti-registry/.github/workflows/verify.yml@main
+    uses: pratismurti/pratismruti-registry/.github/workflows/verify.yml@main
     secrets: inherit
