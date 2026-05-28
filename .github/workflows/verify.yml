@@ -1,0 +1,16 @@
+# pratismruti-uma-sahasram/.github/workflows/verify.yml
+#
+# Minimal caller — delegates all verification logic to the registry.
+# Replace <your-org> with your GitHub username or organisation name.
+
+name: Verify
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    branches: [main]
+
+jobs:
+  verify:
+    uses: pratismruti/pratismruti-registry/.github/workflows/verify.yml@main
+    secrets: inherit

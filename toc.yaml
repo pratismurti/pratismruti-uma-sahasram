@@ -1,0 +1,526 @@
+# Pratismruti — Verified Table of Contents
+# Text: Umāsahasram (K. Natesan Collected Works, Vol. 1, Text 1.6)
+# Source: Printed TOC, pages 36–182
+#
+# toc_locked: true  — structural entries (satakas + stabakas) are frozen.
+# Verse-level entries are pending CorpusLoad (LLM extraction from text body).
+#
+# This file is the authoritative address registry for the pratismruti-uma-sahasram
+# repository. GitHub Actions validates every content/ file's frontmatter address
+# against the position_ids listed here.
+
+text_id: uma-sahasram
+toc_locked: true
+verified_at: "2026-05-21T00:00:00Z"
+
+entries:
+
+  # ── Sataka 01 ────────────────────────────────────────────────────────────────
+
+  - position_id: sataka-01
+    level: section
+    section_term_iast: "śatakam"
+    title_iast: "prathamaṁ śatakam"
+    parent: null
+    order: 1
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-01.stabaka-01
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "vyomaśrīrā, strīrūpā ca"
+    parent: sataka-01
+    order: 1
+    page_ref: 36
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-01.stabaka-02
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "sargādivarṇanam"
+    parent: sataka-01
+    order: 2
+    page_ref: 39
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-01.stabaka-03
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "saśarīrāyāśca sādhanam"
+    parent: sataka-01
+    order: 3
+    page_ref: 43
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-01.stabaka-04
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "ādhyātmikavibhūtayaḥ"
+    parent: sataka-01
+    order: 4
+    page_ref: 46
+    source: printed_toc
+    status: confirmed
+
+  # ── Sataka 02 ────────────────────────────────────────────────────────────────
+
+  - position_id: sataka-02
+    level: section
+    section_term_iast: "śatakam"
+    title_iast: "dvitīyaṁ śatakam"
+    parent: null
+    order: 2
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-02.stabaka-01
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "pariṇayaḥ"
+    parent: sataka-02
+    order: 1
+    page_ref: 49
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-02.stabaka-02
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "māhābhāgyam"
+    parent: sataka-02
+    order: 2
+    page_ref: 53
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-02.stabaka-03
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "vyomaśarīrā, mātṛkādivibhūtayaśca"
+    parent: sataka-02
+    order: 3
+    page_ref: 56
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-02.stabaka-04
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "caritratrayam"
+    parent: sataka-02
+    order: 4
+    page_ref: 61
+    source: printed_toc
+    status: confirmed
+
+  # ── Sataka 03 ────────────────────────────────────────────────────────────────
+
+  - position_id: sataka-03
+    level: section
+    section_term_iast: "śatakam"
+    title_iast: "tṛtīyaṁ śatakam"
+    parent: null
+    order: 3
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-03.stabaka-01
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "mandahāsaḥ"
+    parent: sataka-03
+    order: 1
+    page_ref: 64
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-03.stabaka-02
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "keśādipādāntavarṇanam"
+    parent: sataka-03
+    order: 2
+    page_ref: 66
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-03.stabaka-03
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "pādādikeśāntavarṇanam"
+    parent: sataka-03
+    order: 3
+    page_ref: 71
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-03.stabaka-04
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "śṛṅgāravarṇanam"
+    parent: sataka-03
+    order: 4
+    page_ref: 74
+    source: printed_toc
+    status: confirmed
+
+  # ── Sataka 04 ────────────────────────────────────────────────────────────────
+
+  - position_id: sataka-04
+    level: section
+    section_term_iast: "śatakam"
+    title_iast: "caturthaṁ śatakam"
+    parent: null
+    order: 4
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-04.stabaka-01
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "kaṭākṣaḥ"
+    parent: sataka-04
+    order: 1
+    page_ref: 77
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-04.stabaka-02
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "kālī gaurī kuṇḍalinī ca"
+    parent: sataka-04
+    order: 2
+    page_ref: 81
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-04.stabaka-03
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "śakteḥ svāgatam"
+    parent: sataka-04
+    order: 3
+    page_ref: 84
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-04.stabaka-04
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "adhyātmaṁ śaktivaibhavam"
+    parent: sataka-04
+    order: 4
+    page_ref: 89
+    source: printed_toc
+    status: confirmed
+
+  # ── Sataka 05 ────────────────────────────────────────────────────────────────
+
+  - position_id: sataka-05
+    level: section
+    section_term_iast: "śatakam"
+    title_iast: "pañcamaṁ śatakam"
+    parent: null
+    order: 5
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-05.stabaka-01
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "madakarīśaktiḥ"
+    parent: sataka-05
+    order: 1
+    page_ref: 92
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-05.stabaka-02
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "rūpaviśeṣāḥ kuṇḍalinī samullāsaśca"
+    parent: sataka-05
+    order: 2
+    page_ref: 94
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-05.stabaka-03
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "dhyeyalalitārūpam"
+    parent: sataka-05
+    order: 3
+    page_ref: 99
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-05.stabaka-04
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "sarvasāramayī"
+    parent: sataka-05
+    order: 4
+    page_ref: 102
+    source: printed_toc
+    status: confirmed
+
+  # ── Sataka 06 ────────────────────────────────────────────────────────────────
+
+  - position_id: sataka-06
+    level: section
+    section_term_iast: "śatakam"
+    title_iast: "ṣaṣṭhaṁ śatakam"
+    parent: null
+    order: 6
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-06.stabaka-01
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "ardhanārīśvaraḥ"
+    parent: sataka-06
+    order: 1
+    page_ref: 105
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-06.stabaka-02
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "harakuṭumbakam"
+    parent: sataka-06
+    order: 2
+    page_ref: 107
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-06.stabaka-03
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "prakīrṇakam"
+    parent: sataka-06
+    order: 3
+    page_ref: 110
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-06.stabaka-04
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "prakīrṇakam"
+    parent: sataka-06
+    order: 4
+    page_ref: 113
+    source: printed_toc
+    status: confirmed
+
+  # ── Sataka 07 ────────────────────────────────────────────────────────────────
+
+  - position_id: sataka-07
+    level: section
+    section_term_iast: "śatakam"
+    title_iast: "saptamaṁ śatakam"
+    parent: null
+    order: 7
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-07.stabaka-01
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "kṣetramālā"
+    parent: sataka-07
+    order: 1
+    page_ref: 116
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-07.stabaka-02
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "apītakucāmbā"
+    parent: sataka-07
+    order: 2
+    page_ref: 121
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-07.stabaka-03
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "pracaṇḍacaṇḍī"
+    parent: sataka-07
+    order: 3
+    page_ref: 125
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-07.stabaka-04
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "reṇukādivarṇanam"
+    parent: sataka-07
+    order: 4
+    page_ref: 130
+    source: printed_toc
+    status: confirmed
+
+  # ── Sataka 08 ────────────────────────────────────────────────────────────────
+
+  - position_id: sataka-08
+    level: section
+    section_term_iast: "śatakam"
+    title_iast: "aṣṭamaṁ śatakam"
+    parent: null
+    order: 8
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-08.stabaka-01
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "navavidhabhajanam"
+    parent: sataka-08
+    order: 1
+    page_ref: 135
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-08.stabaka-02
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "mānasapūjā"
+    parent: sataka-08
+    order: 2
+    page_ref: 137
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-08.stabaka-03
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "nāmavaibhavam"
+    parent: sataka-08
+    order: 3
+    page_ref: 140
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-08.stabaka-04
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "bhaktiryogaśca"
+    parent: sataka-08
+    order: 4
+    page_ref: 145
+    source: printed_toc
+    status: confirmed
+
+  # ── Sataka 09 ────────────────────────────────────────────────────────────────
+
+  - position_id: sataka-09
+    level: section
+    section_term_iast: "śatakam"
+    title_iast: "navamaṁ śatakam"
+    parent: null
+    order: 9
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-09.stabaka-01
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "japo yogo'rpaṇaṁ ca"
+    parent: sataka-09
+    order: 1
+    page_ref: 150
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-09.stabaka-02
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "prārthanā"
+    parent: sataka-09
+    order: 2
+    page_ref: 155
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-09.stabaka-03
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "prārthanā"
+    parent: sataka-09
+    order: 3
+    page_ref: 159
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-09.stabaka-04
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "prakīrṇakam"
+    parent: sataka-09
+    order: 4
+    page_ref: 164
+    source: printed_toc
+    status: confirmed
+
+  # ── Sataka 10 ────────────────────────────────────────────────────────────────
+
+  - position_id: sataka-10
+    level: section
+    section_term_iast: "śatakam"
+    title_iast: "daśamaṁ śatakam"
+    parent: null
+    order: 10
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-10.stabaka-01
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "tattvavicāraḥ"
+    parent: sataka-10
+    order: 1
+    page_ref: 170
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-10.stabaka-02
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "daśamahāvidyāḥ"
+    parent: sataka-10
+    order: 2
+    page_ref: 172
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-10.stabaka-03
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "prāyo vyomaśarīrā"
+    parent: sataka-10
+    order: 3
+    page_ref: 175
+    source: printed_toc
+    status: confirmed
+
+  - position_id: sataka-10.stabaka-04
+    level: section
+    section_term_iast: "stabakam"
+    title_iast: "daivagītam"
+    parent: sataka-10
+    order: 4
+    page_ref: 180
+    source: printed_toc
+    status: confirmed
